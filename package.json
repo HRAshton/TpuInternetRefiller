@@ -1,0 +1,14 @@
+{
+  "name": "tpuinternetaccountrefiller",
+  "version": "1.0.0",
+  "description": "Пополнитель счета Интернета ТПУ",
+  "main": "index.js",
+  "scripts": {
+    "run": "node ."
+  },
+  "author": "HRAshton",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^5.3.1"
+  }
+}
